@@ -1,0 +1,6 @@
+{
+  "name": "SkillMate",
+  "description": "Student Skill Exchange and Peer Learning System with video-based teaching evaluation and student earning opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
